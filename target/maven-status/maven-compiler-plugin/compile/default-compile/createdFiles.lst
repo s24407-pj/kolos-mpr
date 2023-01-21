@@ -1,0 +1,8 @@
+com\example\s24407Bank\ClientStorage.class
+com\example\s24407Bank\Client.class
+com\example\s24407Bank\S24407BankApplication.class
+com\example\s24407Bank\BankService.class
+com\example\s24407Bank\TransferStatus.class
+com\example\s24407Bank\TransferStorage.class
+com\example\s24407Bank\TransferType.class
+com\example\s24407Bank\Transfer.class

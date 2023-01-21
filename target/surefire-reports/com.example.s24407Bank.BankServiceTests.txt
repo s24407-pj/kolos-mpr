@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.example.s24407Bank.BankServiceTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.036 s <<< FAILURE! - in com.example.s24407Bank.BankServiceTests
+shouldAddNewClient  Time elapsed: 0.025 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "com.example.s24407Bank.BankService.registerClient(double)" because "this.bankService" is null
+	at com.example.s24407Bank.BankServiceTests.shouldAddNewClient(BankServiceTests.java:20)
+
